@@ -7,7 +7,7 @@ Soy un Profesional Técnico en Computación e Informática en Lima, Perú. Me es
 * 💻 Actualmente trabajo como **Desarrollador Web, Móvil y Desktop** construyendo sistemas B2B.
 * 🚀 Mi enfoque principal está en **React, Next.js, Astro y React Native**.
 * 🔧 Tengo experiencia integrando SDKs de hardware (ZKTeco, DigitalPersona) usando **C# (.NET/WPF)**.
-* 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/joaquín-alexandro-huaranga-orihuela) o escríbeme a joaquinhuarangaorihuela@gmail.com.
+* 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/joaquín-alexandro-huaranga-orihuela-842085250) o escríbeme a joaquinhuarangaorihuela@gmail.com.
 
 ---
 
