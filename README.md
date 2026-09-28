@@ -2,7 +2,7 @@
 
 ### Desarrollador Web y Móvil | Creando soluciones multiplataforma end-to-end 🚀
 
-Soy un Profesional Técnico en Computación e Informática basado en Lima, Perú. Me especializo en el ecosistema **JavaScript/TypeScript**, creando interfaces escalables para la web y aplicaciones móviles nativas. Además, tengo experiencia única conectando software moderno con hardware biométrico físico.
+Soy un Profesional Técnico en Computación e Informática en Lima, Perú. Me especializo en el ecosistema **JavaScript/TypeScript**, creando interfaces escalables para la web y aplicaciones móviles nativas. Además, tengo experiencia única conectando software moderno con hardware biométrico físico.
 
 * 💻 Actualmente trabajo como **Desarrollador Web, Móvil y Desktop** construyendo sistemas B2B.
 * 🚀 Mi enfoque principal está en **React, Next.js, Astro y React Native**.
